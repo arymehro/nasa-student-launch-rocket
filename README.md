@@ -104,7 +104,7 @@ The rear section of the rocket includes a **three-fin stabilization system** whi
 
 ## Nose and Upper Airframe
 
-The forward section of the rocket includes the nose cone and upper airframe connection which houses internal rocket systems.
+The forward section of the rocket includes the nose cone and upper airframe connection, which houses internal rocket systems.
 
 ![Nose Section](cad/nose_exo.png)
 
@@ -124,19 +124,19 @@ To support rocket assembly and handling during construction, a **custom rocket s
 
 The cradle structure was constructed using:
 
-- 0.5 inch wood panels
+- 0.5-inch wood panels
 - 1×1 wood structural supports
 - 3D printed components
 
 ## Cradle Design Layout
 
-![Cradle Design](fabrication/cradle_design.png)
+![Cradle Design](fabrication/fab_2.png)
 
 ---
 
 ## Completed Assembly Cradle
 
-![Cradle Build](fabrication/cradle_built.png)
+![Cradle Build](fabrication/fab_rocket.png)
 
 This fixture allowed the rocket to be safely supported during assembly and integration.
 
