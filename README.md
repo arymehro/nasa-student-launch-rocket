@@ -130,13 +130,13 @@ The cradle structure was constructed using:
 
 ## Cradle Design Layout
 
-![Cradle Design](fabrication/fab_2.png)
+![Cradle Design](fabrication/fab_rocket.png)
 
 ---
 
 ## Completed Assembly Cradle
 
-![Cradle Build](fabrication/fab_rocket.png)
+![Cradle Build](fabrication/fab_2.png)
 
 This fixture allowed the rocket to be safely supported during assembly and integration.
 
