@@ -79,7 +79,7 @@ The lower airframe section supports the propulsion system and fin assembly. This
 
 After defining the rocket configuration in simulation software, the rocket was modeled in **Autodesk Fusion 360** to create a mechanical representation of the airframe structure.
 
-The CAD model represents the rocket as a multi-component assembly including:
+The CAD model represents the rocket as a multi-component assembly, including:
 
 - nose cone
 - airframe sections
