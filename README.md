@@ -13,4 +13,4 @@ Key parameters from the simulation:
 
 The simulation also calculates the **Center of Gravity (CG)** and **Center of Pressure (CP)** to determine flight stability.
 
-![Rocket Simulation Layout](rocksim1.png)
+![Rocket Simulation Layout](design/rocksim1.png)
